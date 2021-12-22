@@ -1,1 +1,1 @@
-# Fake-Newa-Classifier
+# Fake-News-Classifier
